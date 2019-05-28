@@ -1,0 +1,23 @@
+{
+  "name": "node-yt-raspb-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kedmenecr/node-yt-raspb-player.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kedmenecr/node-yt-raspb-player/issues"
+  },
+  "homepage": "https://github.com/kedmenecr/node-yt-raspb-player#readme",
+  "dependencies": {
+    "naudiodon": "^2.0.3"
+  }
+}
